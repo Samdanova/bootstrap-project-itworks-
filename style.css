@@ -1,0 +1,23 @@
+*{
+    color: white;
+}
+.container-header{
+    color: white;
+}
+.span-dev,.text-email-container{
+    font-weight: bold;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3vw;
+}
+
+.text-container-third{
+    color:black;
+}
+
+.btn{
+    font-size: 1.7vw;
+}
